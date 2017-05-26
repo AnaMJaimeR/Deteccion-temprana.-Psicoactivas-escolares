@@ -1,7 +1,7 @@
 # Deteccion-temprana.-Psicoactivas-escolares
 PROPENSIÓN AL CONSUMO TEMPRANO DE SUSTANCIAS PSICOACTIVAS: UNA APLICACIÓN DE MACHINE LEARNING
 
-1.	INTRODUCCIÓN Y PLANTEAMIENTO DEL PROBLEMA
+-INTRODUCCIÓN Y PLANTEAMIENTO DEL PROBLEMA
 
 “People use drugs because their lives are intolerably painful or dull. They hate their work and find no rest in their leisure. They are estranged from their families and neighbors. It should tell us something that in healthy societies drug use is celebrative, convivial, and occasional, whereas among us it is lonely, shameful, and addictive”
 Wendell Berry
